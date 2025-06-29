@@ -42,7 +42,8 @@ SmPO/
 │   └── pickapic_v2/   
 ├── utils/  
 │   └── pickscore_utils.py  
-├── train.py            
+├── train.py      
+├── preprocessing.py        
 ├── README.md              
 ├── LICENSE.txt            
 └── requirements.txt       
